@@ -1,0 +1,6 @@
+{
+  "name": "Helvetia VPN",
+  "description": "Zero-knowledge privacy VPN utilizing NIST-standard AES-256-GCM authenticated encryption, ECDHE Curve25519 key exchange, and diskless RAM-only multi-hop routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
